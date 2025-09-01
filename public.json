@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "maintenance": false,
+  "maintenance": true,
   "min_client_version": "0.0.1",
   "server_available": 0,
   "update_message": "",
