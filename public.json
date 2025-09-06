@@ -1,7 +1,7 @@
 {
   "version": "0.0.1",
   "maintenance": false,
-  "min_client_version": "0.0.027",
+  "min_client_version": "0.0.1",
   "engine_version": "2023.3.0b6",
   "server_available": 0,
   "update_message": "",
